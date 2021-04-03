@@ -1,0 +1,22 @@
+stat,n
+datsets,120
+species,97
+populations,2011
+median populations per dataset,12
+mean populations per dataset,16.7583333333333
+stdev populations per dataset,16.056620317564
+q25 populations per dataset,6
+q75 populations per dataset,20.25
+population pairs,0
+median individuals per population,19.7768640350877
+q25 individuals per population,13.320652173913
+q75 individuals per population,31.8083333333333
+median loci: SSR datasets,11
+median loci: SNP datasets,267
+datasets with expected wind = 0,34
+datasets with expected wind = 0.5,35
+datasets with expected wind = 1,51
+datasets with sequence type = SNP,13
+datasets with sequence type = SSR,107
+datasets with genome type = cp,20
+datasets with genome type = nu,100

@@ -1,0 +1,13 @@
+metric,model,term,estimate,p
+flow,r ~ syndrom,syndrome,0.164,0.043
+flow,r ~ syndrom + latitude,syndrome,0.162,0.096
+flow,r ~ syndrom + latitude,latitude,0,0.504
+connectivity,r ~ syndrom,syndrome,0.477,0
+connectivity,r ~ syndrom + latitude,syndrome,0.447,0
+connectivity,r ~ syndrom + latitude,latitude,0.002,0.323
+directionality,r ~ syndrom,syndrome,0.179,0.059
+directionality,r ~ syndrom + latitude,syndrome,0.159,0.126
+directionality,r ~ syndrom + latitude,latitude,0.001,0.417
+diversity,r ~ syndrom,syndrome,0.109,0.206
+diversity,r ~ syndrom + latitude,syndrome,0.03,0.378
+diversity,r ~ syndrom + latitude,latitude,0.005,0.207

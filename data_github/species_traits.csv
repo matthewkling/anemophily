@@ -1,0 +1,521 @@
+species,trait,value,basis
+Abies alba,wind_pollination,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Abies alba,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Abies alba,pollination_months,5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Abies alba,dispersal_months,9_10,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Abies alba,plastid_inheritance,pollen,gymnosperm
+Acacia ancistrocarpa,wind_pollination,0,http://plantnet.rbgsyd.nsw.gov.au/PlantNet/WattleWeb/ecology/dispersal.php
+Acacia ancistrocarpa,wind_dispersal,0,http://plantnet.rbgsyd.nsw.gov.au/PlantNet/WattleWeb/ecology/dispersal.php
+Acacia ancistrocarpa,pollination_months,NA,NA
+Acacia ancistrocarpa,dispersal_months,NA,NA
+Acacia ancistrocarpa,plastid_inheritance,seed,angiosperm
+Acacia atkinsiana,wind_pollination,0,http://plantnet.rbgsyd.nsw.gov.au/PlantNet/WattleWeb/ecology/dispersal.php
+Acacia atkinsiana,wind_dispersal,0,http://plantnet.rbgsyd.nsw.gov.au/PlantNet/WattleWeb/ecology/dispersal.php
+Acacia atkinsiana,pollination_months,NA,NA
+Acacia atkinsiana,dispersal_months,NA,NA
+Acacia atkinsiana,plastid_inheritance,seed,angiosperm
+Acacia loderi,wind_pollination,0,http://plantnet.rbgsyd.nsw.gov.au/PlantNet/WattleWeb/ecology/dispersal.php
+Acacia loderi,wind_dispersal,0,http://plantnet.rbgsyd.nsw.gov.au/PlantNet/WattleWeb/ecology/dispersal.php
+Acacia loderi,pollination_months,NA,NA
+Acacia loderi,dispersal_months,NA,NA
+Acacia loderi,plastid_inheritance,seed,angiosperm
+Acer saccharum,wind_pollination,1,https://plants.usda.gov/plantguide/pdf/pg_acsa3.pdf
+Acer saccharum,wind_dispersal,1,common knowledge
+Acer saccharum,pollination_months,3_4_5,https://www.fs.fed.us/ne/newtown_square/publications/research_papers/pdfs/scanned/OCR/ne_rp697.pdf
+Acer saccharum,dispersal_months,9_10_11,https://www.fs.fed.us/ne/newtown_square/publications/research_papers/pdfs/scanned/OCR/ne_rp697.pdf
+Acer saccharum,plastid_inheritance,seed,angiosperm
+Alnus glutinosa,wind_pollination,1,https://link.springer.com/content/pdf/10.1023/A:1003859030320.pdf
+Alnus glutinosa,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Alnus glutinosa,pollination_months,3_4_5,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Alnus glutinosa,dispersal_months,9_10_11_12_1_2_3,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Alnus glutinosa,plastid_inheritance,seed,angiosperm
+Annona crassiflora,wind_pollination,0,https://doi.org/10.1111/j.1095-8339.2011.01209.x
+Annona crassiflora,wind_dispersal,0,https://en.wikipedia.org/wiki/Annona_crassiflora
+Annona crassiflora,pollination_months,NA,NA
+Annona crassiflora,dispersal_months,NA,NA
+Annona crassiflora,plastid_inheritance,seed,angiosperm
+Betula ermanii,wind_pollination,1,http://www.pollenlibrary.com/GENUS/Betula/
+Betula ermanii,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Betula ermanii,pollination_months,NA,NA
+Betula ermanii,dispersal_months,NA,NA
+Betula ermanii,plastid_inheritance,seed,angiosperm
+Betula maximowicziana,wind_pollination,1,http://www.pollenlibrary.com/GENUS/Betula/
+Betula maximowicziana,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Betula maximowicziana,pollination_months,NA,NA
+Betula maximowicziana,dispersal_months,NA,NA
+Betula maximowicziana,plastid_inheritance,seed,angiosperm
+Betula nana,wind_pollination,1,http://www.pollenlibrary.com/GENUS/Betula/
+Betula nana,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Betula nana,pollination_months,6_7_8,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Betula nana,dispersal_months,9_10_11_12_1_2_3,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Betula nana,plastid_inheritance,seed,angiosperm
+Betula pendula,wind_pollination,1,http://www.pollenlibrary.com/GENUS/Betula/
+Betula pendula,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Betula pendula,pollination_months,4_5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Betula pendula,dispersal_months,7_8_9,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Betula pendula,plastid_inheritance,seed,angiosperm
+Betula platyphylla,wind_pollination,1,http://www.pollenlibrary.com/GENUS/Betula/
+Betula platyphylla,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Betula platyphylla,pollination_months,NA,NA
+Betula platyphylla,dispersal_months,NA,NA
+Betula platyphylla,plastid_inheritance,seed,angiosperm
+Betula pubsescens,wind_pollination,1,http://www.pollenlibrary.com/GENUS/Betula/
+Betula pubsescens,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Betula pubsescens,pollination_months,5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Betula pubsescens,dispersal_months,9_10_11_12,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Betula pubsescens,plastid_inheritance,seed,angiosperm
+Callitris columellaris,wind_pollination,1,https://www.annualreviews.org/doi/pdf/10.1146/annurev.es.13.110182.002433
+Callitris columellaris,wind_dispersal,1,https://florabase.dpaw.wa.gov.au/browse/profile/8466
+Callitris columellaris,pollination_months,NA,NA
+Callitris columellaris,dispersal_months,NA,NA
+Callitris columellaris,plastid_inheritance,pollen,gymnosperm
+Callitris glaucophylla,wind_pollination,1,https://www.annualreviews.org/doi/pdf/10.1146/annurev.es.13.110182.002433
+Callitris glaucophylla,wind_dispersal,1,https://pdfs.semanticscholar.org/08cc/d497be7563fc79435e9781803f78aad25cfe.pdf
+Callitris glaucophylla,pollination_months,NA,NA
+Callitris glaucophylla,dispersal_months,NA,NA
+Callitris glaucophylla,plastid_inheritance,pollen,gymnosperm
+Callitris gracilis,wind_pollination,1,https://www.annualreviews.org/doi/pdf/10.1146/annurev.es.13.110182.002433
+Callitris gracilis,wind_dispersal,1,NA
+Callitris gracilis,pollination_months,NA,NA
+Callitris gracilis,dispersal_months,NA,NA
+Callitris gracilis,plastid_inheritance,pollen,gymnosperm
+Callitris intratropica,wind_pollination,1,https://www.annualreviews.org/doi/pdf/10.1146/annurev.es.13.110182.002433
+Callitris intratropica,wind_dispersal,1,http://www.anbg.gov.au/cpbr/cd-keys/RFK7/key/RFK7/Media/Html/entities/Callitris_intratropica.pdf
+Callitris intratropica,pollination_months,NA,NA
+Callitris intratropica,dispersal_months,NA,NA
+Callitris intratropica,plastid_inheritance,pollen,gymnosperm
+Callitris verrucosa,wind_pollination,1,https://www.annualreviews.org/doi/pdf/10.1146/annurev.es.13.110182.002433
+Callitris verrucosa,wind_dispersal,1,https://flex.flinders.edu.au/file/a305ae18-2a16-4f20-93c6-feb30800293e/1/THESISDunker2015.pdf
+Callitris verrucosa,pollination_months,NA,NA
+Callitris verrucosa,dispersal_months,NA,NA
+Callitris verrucosa,plastid_inheritance,pollen,gymnosperm
+Castanopsis sieboldii,wind_pollination,0,https://academic.oup.com/jhered/article/103/4/547/1028984
+Castanopsis sieboldii,wind_dispersal,0,https://academic.oup.com/jhered/article/103/4/547/1028984
+Castanopsis sieboldii,pollination_months,5_6,https://www.flower-db.com/en/flower:1313
+Castanopsis sieboldii,dispersal_months,NA,NA
+Castanopsis sieboldii,plastid_inheritance,seed,angiosperm
+Chamaecyparis lawsoniana,wind_pollination,1,gymnosperm
+Chamaecyparis lawsoniana,wind_dispersal,1,https://www.fs.fed.us/database/feis/plants/tree/chalaw/all.html
+Chamaecyparis lawsoniana,pollination_months,3_4,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Chamaecyparis lawsoniana,dispersal_months,9_10_11_12_1_2_3_4_5,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Chamaecyparis lawsoniana,plastid_inheritance,pollen,gymnosperm
+Eucalyptus caesia,wind_pollination,0,https://www.nature.com/articles/hdy201661
+Eucalyptus caesia,wind_dispersal,0,https://www.nature.com/articles/hdy201661
+Eucalyptus caesia,pollination_months,NA,NA
+Eucalyptus caesia,dispersal_months,NA,NA
+Eucalyptus caesia,plastid_inheritance,seed,angiosperm
+Fagus grandifolia,wind_pollination,1,https://www.illinoiswildflowers.info/trees/plants/am_beech.htm
+Fagus grandifolia,wind_dispersal,0,https://www.fs.fed.us/database/feis/plants/tree/faggra/all.html
+Fagus grandifolia,pollination_months,3_5,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Fagus grandifolia,dispersal_months,9_10_11,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Fagus grandifolia,plastid_inheritance,seed,angiosperm
+Fagus sylvatica,wind_pollination,1,https://link.springer.com/article/10.1007/s11258-012-0125-2
+Fagus sylvatica,wind_dispersal,0,https://forest.jrc.ec.europa.eu/media/atlas/Fagus_sylvatica.pdf
+Fagus sylvatica,pollination_months,4_5,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Fagus sylvatica,dispersal_months,10_11,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Fagus sylvatica,plastid_inheritance,seed,angiosperm
+Ficus pumila,wind_pollination,0,https://www.actahort.org/books/1173/1173_24.htm
+Ficus pumila,wind_dispersal,0,https://www.actahort.org/books/1173/1173_24.htm
+Ficus pumila,pollination_months,NA,NA
+Ficus pumila,dispersal_months,NA,NA
+Ficus pumila,plastid_inheritance,seed,angiosperm
+Kalopanax septemlobus,wind_pollination,0,http://arnoldia.arboretum.harvard.edu/pdf/articles/2014-72-2-the-castor-aralia-kalopanax-septemlobus.pdf
+Kalopanax septemlobus,wind_dispersal,0,http://arnoldia.arboretum.harvard.edu/pdf/articles/2014-72-2-the-castor-aralia-kalopanax-septemlobus.pdf
+Kalopanax septemlobus,pollination_months,7_8_9,http://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=b951; http://arnoldia.arboretum.harvard.edu/pdf/articles/2014-72-2-the-castor-aralia-kalopanax-septemlobus.pdf
+Kalopanax septemlobus,dispersal_months,NA,NA
+Kalopanax septemlobus,plastid_inheritance,seed,angiosperm
+Larix cajanderi,wind_pollination,1,gymnosperm
+Larix cajanderi,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix cajanderi,pollination_months,4_5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix cajanderi,dispersal_months,2_3,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix cajanderi,plastid_inheritance,pollen,gymnosperm
+Larix decidua,wind_pollination,1,gymnosperm
+Larix decidua,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix decidua,pollination_months,3_4_5,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix decidua,dispersal_months,9_10_11_12_1_2_3_4_5,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix decidua,plastid_inheritance,pollen,gymnosperm
+Larix gmelinii,wind_pollination,1,gymnosperm
+Larix gmelinii,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix gmelinii,pollination_months,4_5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix gmelinii,dispersal_months,2_3,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix gmelinii,plastid_inheritance,pollen,gymnosperm
+Larix kamtschatica,wind_pollination,1,gymnosperm
+Larix kamtschatica,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix kamtschatica,pollination_months,4_5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix kamtschatica,dispersal_months,2_3,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix kamtschatica,plastid_inheritance,pollen,gymnosperm
+Larix kurilensis,wind_pollination,1,gymnosperm
+Larix kurilensis,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix kurilensis,pollination_months,4_5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix kurilensis,dispersal_months,2_3,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix kurilensis,plastid_inheritance,pollen,gymnosperm
+Larix olgensis,wind_pollination,1,gymnosperm
+Larix olgensis,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix olgensis,pollination_months,4_5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix olgensis,dispersal_months,2_3,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix olgensis,plastid_inheritance,pollen,gymnosperm
+Larix sibirica,wind_pollination,1,gymnosperm
+Larix sibirica,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix sibirica,pollination_months,4_5,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix sibirica,dispersal_months,9_10_11_12_1_2_3,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Larix sibirica,plastid_inheritance,pollen,gymnosperm
+Magnolia salicifolia,wind_pollination,0,https://doi.org/10.1111/j.1442-1984.1992.tb00225.x
+Magnolia salicifolia,wind_dispersal,0,https://www.newworldencyclopedia.org/entry/Magnolia
+Magnolia salicifolia,pollination_months,NA,NA
+Magnolia salicifolia,dispersal_months,NA,NA
+Magnolia salicifolia,plastid_inheritance,seed,angiosperm
+Malus sylvestris,wind_pollination,0,http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=ENV-JM-MONO(2019)30%20&doclanguage=en
+Malus sylvestris,wind_dispersal,0,http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=ENV-JM-MONO(2019)30%20&doclanguage=en
+Malus sylvestris,pollination_months,NA,NA
+Malus sylvestris,dispersal_months,NA,NA
+Malus sylvestris,plastid_inheritance,seed,angiosperm
+Manilkara zapota,wind_pollination,0,https://pfaf.org/user/Plant.aspx?LatinName=Manilkara+zapota
+Manilkara zapota,wind_dispersal,0,https://pfaf.org/user/Plant.aspx?LatinName=Manilkara+zapota
+Manilkara zapota,pollination_months,1_2_3_4_5_6_7_8_9_10_11_12,https://pfaf.org/user/Plant.aspx?LatinName=Manilkara+zapota
+Manilkara zapota,dispersal_months,1_2_3_4_5_6_7_8_9_10_11_12,https://pfaf.org/user/Plant.aspx?LatinName=Manilkara+zapota
+Manilkara zapota,plastid_inheritance,seed,angiosperm
+Metrosideros polymorpha,wind_pollination,0,https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.12027
+Metrosideros polymorpha,wind_dispersal,1,https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.12027
+Metrosideros polymorpha,pollination_months,1_2_3_4_5_6_7_8_9_10_11_12,https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.12027
+Metrosideros polymorpha,dispersal_months,12_1,DOI: 10.2307/2445048
+Metrosideros polymorpha,plastid_inheritance,seed,angiosperm
+Nothofagus alpina,wind_pollination,1,https://www-sciencedirect-com.libproxy.berkeley.edu/science/article/pii/S0367253013000741
+Nothofagus alpina,wind_dispersal,1,"The Ecology and Biogeography of Nothofagus Forests (edited by Thomas T. Veblen, Robert S. Hill, Jennifer Read)"
+Nothofagus alpina,pollination_months,NA,NA
+Nothofagus alpina,dispersal_months,NA,NA
+Nothofagus alpina,plastid_inheritance,seed,angiosperm
+Nothofagus antarctica,wind_pollination,1,https://www-sciencedirect-com.libproxy.berkeley.edu/science/article/pii/S0367253013000741
+Nothofagus antarctica,wind_dispersal,1,"The Ecology and Biogeography of Nothofagus Forests (edited by Thomas T. Veblen, Robert S. Hill, Jennifer Read)"
+Nothofagus antarctica,pollination_months,NA,NA
+Nothofagus antarctica,dispersal_months,NA,NA
+Nothofagus antarctica,plastid_inheritance,seed,angiosperm
+Nothofagus cunninghamii,wind_pollination,1,https://www-sciencedirect-com.libproxy.berkeley.edu/science/article/pii/S0367253013000741
+Nothofagus cunninghamii,wind_dispersal,1,"The Ecology and Biogeography of Nothofagus Forests (edited by Thomas T. Veblen, Robert S. Hill, Jennifer Read)"
+Nothofagus cunninghamii,pollination_months,NA,NA
+Nothofagus cunninghamii,dispersal_months,NA,NA
+Nothofagus cunninghamii,plastid_inheritance,seed,angiosperm
+Nothofagus glauca,wind_pollination,1,https://www-sciencedirect-com.libproxy.berkeley.edu/science/article/pii/S0367253013000741
+Nothofagus glauca,wind_dispersal,1,"The Ecology and Biogeography of Nothofagus Forests (edited by Thomas T. Veblen, Robert S. Hill, Jennifer Read)"
+Nothofagus glauca,pollination_months,NA,NA
+Nothofagus glauca,dispersal_months,NA,NA
+Nothofagus glauca,plastid_inheritance,seed,angiosperm
+Nothofagus obliqua,wind_pollination,1,https://www-sciencedirect-com.libproxy.berkeley.edu/science/article/pii/S0367253013000741
+Nothofagus obliqua,wind_dispersal,1,"The Ecology and Biogeography of Nothofagus Forests (edited by Thomas T. Veblen, Robert S. Hill, Jennifer Read)"
+Nothofagus obliqua,pollination_months,NA,NA
+Nothofagus obliqua,dispersal_months,NA,NA
+Nothofagus obliqua,plastid_inheritance,seed,angiosperm
+Nothofagus pumilio,wind_pollination,1,https://www-sciencedirect-com.libproxy.berkeley.edu/science/article/pii/S0367253013000741
+Nothofagus pumilio,wind_dispersal,1,"The Ecology and Biogeography of Nothofagus Forests (edited by Thomas T. Veblen, Robert S. Hill, Jennifer Read)"
+Nothofagus pumilio,pollination_months,NA,NA
+Nothofagus pumilio,dispersal_months,NA,NA
+Nothofagus pumilio,plastid_inheritance,seed,angiosperm
+Olea europaea,wind_pollination,1,https://www.sciencedirect.com/science/article/abs/pii/S1872203213000061
+Olea europaea,wind_dispersal,0,NA
+Olea europaea,pollination_months,NA,NA
+Olea europaea,dispersal_months,NA,NA
+Olea europaea,plastid_inheritance,seed,angiosperm
+Picea abies,wind_pollination,1,gymnosperm
+Picea abies,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Picea abies,pollination_months,4_5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Picea abies,dispersal_months,9_10_11_12_1_2_3_4,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Picea abies,plastid_inheritance,pollen,gymnosperm
+Picea engelmannii,wind_pollination,1,gymnosperm
+Picea engelmannii,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Picea engelmannii,pollination_months,5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Picea engelmannii,dispersal_months,9_10,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Picea engelmannii,plastid_inheritance,pollen,gymnosperm
+Picea glauca,wind_pollination,1,https://www.fs.fed.us/database/feis/plants/tree/picgla/all.html
+Picea glauca,wind_dispersal,1,https://www.fs.fed.us/database/feis/plants/tree/picgla/all.html
+Picea glauca,pollination_months,5_6_7,https://www.fs.fed.us/database/feis/plants/tree/picgla/all.html
+Picea glauca,dispersal_months,8_9_10_11_12,https://www.fs.fed.us/database/feis/plants/tree/picgla/all.html
+Picea glauca,plastid_inheritance,pollen,gymnosperm
+Picea mariana,wind_pollination,1,gymnosperm
+Picea mariana,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Picea mariana,pollination_months,5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Picea mariana,dispersal_months,1_2_3_4_5_6_7_8_9_10_11_12,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Picea mariana,plastid_inheritance,pollen,gymnosperm
+Picea obovata,wind_pollination,1,https://www.fs.fed.us/database/feis/plants/tree/picabi/all.html
+Picea obovata,wind_dispersal,1,https://www.fs.fed.us/database/feis/plants/tree/picabi/all.html
+Picea obovata,pollination_months,4_5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Picea obovata,dispersal_months,9_10_11_12_1_2_3_4,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Picea obovata,plastid_inheritance,pollen,gymnosperm
+Picea rubens,wind_pollination,1,gymnosperm
+Picea rubens,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Picea rubens,pollination_months,4_5,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Picea rubens,dispersal_months,9_10_11_12_1_2_3_4,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Picea rubens,plastid_inheritance,pollen,gymnosperm
+Pinus banksiana,wind_pollination,1,https://www.fs.fed.us/database/feis/plants/tree/pinban/all.html
+Pinus banksiana,wind_dispersal,1,https://www.fs.fed.us/database/feis/plants/tree/pinban/all.html
+Pinus banksiana,pollination_months,5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Pinus banksiana,dispersal_months,7_8_9_10,https://www.fs.fed.us/database/feis/plants/tree/pinban/all.html
+Pinus banksiana,plastid_inheritance,pollen,gymnosperm
+Pinus cembra,wind_pollination,1,gymnosperm
+Pinus cembra,wind_dispersal,0,https://www.wsl.ch/staff/niklaus.zimmermann/research/Thesis_Saladin_2013.pdf
+Pinus cembra,pollination_months,5,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Pinus cembra,dispersal_months,8_9_10,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Pinus cembra,plastid_inheritance,pollen,gymnosperm
+Pinus contorta,wind_pollination,1,gymnosperm
+Pinus contorta,wind_dispersal,1,https://www.fs.fed.us/database/feis/plants/tree/pinconl/all.html
+Pinus contorta,pollination_months,5_6_7,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Pinus contorta,dispersal_months,9_10,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Pinus contorta,plastid_inheritance,pollen,gymnosperm
+Pinus flexilis,wind_pollination,1,gymnosperm
+Pinus flexilis,wind_dispersal,0,https://www.fs.fed.us/database/feis/plants/tree/pinfle/all.html
+Pinus flexilis,pollination_months,6_7,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Pinus flexilis,dispersal_months,9_10,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Pinus flexilis,plastid_inheritance,pollen,gymnosperm
+Pinus ponderosa,wind_pollination,1,gymnosperm
+Pinus ponderosa,wind_dispersal,1,https://doi.org/10.1890/07-0409.1
+Pinus ponderosa,pollination_months,4_5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Pinus ponderosa,dispersal_months,8_9_10_11_12_1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Pinus ponderosa,plastid_inheritance,pollen,gymnosperm
+Pinus strobiformis,wind_pollination,1,gymnosperm
+Pinus strobiformis,wind_dispersal,0,https://www.jstor.org/stable/42902534
+Pinus strobiformis,pollination_months,6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Pinus strobiformis,dispersal_months,9_10,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Pinus strobiformis,plastid_inheritance,pollen,gymnosperm
+Pinus strobus,wind_pollination,1,gymnosperm
+Pinus strobus,wind_dispersal,1,https://www.fs.fed.us/database/feis/plants/tree/pinstr/all.html
+Pinus strobus,pollination_months,5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Pinus strobus,dispersal_months,8_9,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Pinus strobus,plastid_inheritance,pollen,gymnosperm
+Pistacia lentiscus,wind_pollination,1,https://link.springer.com/article/10.1007/s11295-017-1100-9
+Pistacia lentiscus,wind_dispersal,0,https://link.springer.com/article/10.1007/s11295-017-1100-9
+Pistacia lentiscus,pollination_months,2_3_4_5,https://www-tandfonline-com.libproxy.berkeley.edu/doi/abs/10.1080/11263500012331350515
+Pistacia lentiscus,dispersal_months,12_1_2_3,https://link.springer.com/article/10.1007/s11295-017-1100-9
+Pistacia lentiscus,plastid_inheritance,seed,angiosperm
+Populus alba,wind_pollination,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus alba,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus alba,pollination_months,4_5,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus alba,dispersal_months,5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus alba,plastid_inheritance,pollen,gymnosperm
+Populus angustifolia,wind_pollination,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus angustifolia,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus angustifolia,pollination_months,4_5_6,https://www.fs.fed.us/database/feis/plants/tree/popang/all.html; https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=39453
+Populus angustifolia,dispersal_months,5_6_7,inferred based on flower-seed delay in other species
+Populus angustifolia,plastid_inheritance,seed,angiosperm
+Populus balsamifera,wind_pollination,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus balsamifera,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus balsamifera,pollination_months,4_5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus balsamifera,dispersal_months,5_6_7,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus balsamifera,plastid_inheritance,seed,angiosperm
+Populus nigra,wind_pollination,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus nigra,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus nigra,pollination_months,4,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus nigra,dispersal_months,5,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus nigra,plastid_inheritance,seed,angiosperm
+Populus tremula,wind_pollination,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus tremula,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus tremula,pollination_months,4,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus tremula,dispersal_months,5,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus tremula,plastid_inheritance,seed,angiosperm
+Populus tremuloides,wind_pollination,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus tremuloides,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus tremuloides,pollination_months,3_4_5,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus tremuloides,dispersal_months,5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Populus tremuloides,plastid_inheritance,seed,angiosperm
+Prunus avium,wind_pollination,0,common knowledge
+Prunus avium,wind_dispersal,0,common knowledge
+Prunus avium,pollination_months,4_5,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Prunus avium,dispersal_months,6_7,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Prunus avium,plastid_inheritance,seed,angiosperm
+Prunus dulcis,wind_pollination,0,common knowledge
+Prunus dulcis,wind_dispersal,0,common knowledge
+Prunus dulcis,pollination_months,2_3,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Prunus dulcis,dispersal_months,8_9_10,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Prunus dulcis,plastid_inheritance,seed,angiosperm
+Prunus lannesian,wind_pollination,0,common knowledge
+Prunus lannesian,wind_dispersal,0,common knowledge
+Prunus lannesian,pollination_months,NA,NA
+Prunus lannesian,dispersal_months,NA,NA
+Prunus lannesian,plastid_inheritance,seed,angiosperm
+Prunus orientalis,wind_pollination,0,common knowledge
+Prunus orientalis,wind_dispersal,0,common knowledge
+Prunus orientalis,pollination_months,NA,NA
+Prunus orientalis,dispersal_months,NA,NA
+Prunus orientalis,plastid_inheritance,seed,angiosperm
+Quercus berberidifolia,wind_pollination,1,common knowledge
+Quercus berberidifolia,wind_dispersal,0,common knowledge
+Quercus berberidifolia,pollination_months,2_3_4,https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=76903
+Quercus berberidifolia,dispersal_months,NA,NA
+Quercus berberidifolia,plastid_inheritance,seed,angiosperm
+Quercus brandegei,wind_pollination,1,common knowledge
+Quercus brandegei,wind_dispersal,0,common knowledge
+Quercus brandegei,pollination_months,NA,NA
+Quercus brandegei,dispersal_months,NA,NA
+Quercus brandegei,plastid_inheritance,seed,angiosperm
+Quercus bumeliodes,wind_pollination,1,common knowledge
+Quercus bumeliodes,wind_dispersal,0,common knowledge
+Quercus bumeliodes,pollination_months,NA,NA
+Quercus bumeliodes,dispersal_months,NA,NA
+Quercus bumeliodes,plastid_inheritance,seed,angiosperm
+Quercus cornelius-mulleri,wind_pollination,1,common knowledge
+Quercus cornelius-mulleri,wind_dispersal,0,common knowledge
+Quercus cornelius-mulleri,pollination_months,2_3_4,https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40572
+Quercus cornelius-mulleri,dispersal_months,NA,NA
+Quercus cornelius-mulleri,plastid_inheritance,seed,angiosperm
+Quercus costaricensis,wind_pollination,1,common knowledge
+Quercus costaricensis,wind_dispersal,0,common knowledge
+Quercus costaricensis,pollination_months,8_9_10_11,http://oaks.of.the.world.free.fr/quercus_costaricensis.htm
+Quercus costaricensis,dispersal_months,NA,NA
+Quercus costaricensis,plastid_inheritance,seed,angiosperm
+Quercus durata,wind_pollination,1,common knowledge
+Quercus durata,wind_dispersal,0,common knowledge
+Quercus durata,pollination_months,2_3_4,http://oaks.of.the.world.free.fr/quercus_dumosa.htm
+Quercus durata,dispersal_months,NA,NA
+Quercus durata,plastid_inheritance,seed,angiosperm
+Quercus engelmannii,wind_pollination,1,common knowledge
+Quercus engelmannii,wind_dispersal,0,common knowledge
+Quercus engelmannii,pollination_months,4_5,https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40590
+Quercus engelmannii,dispersal_months,NA,NA
+Quercus engelmannii,plastid_inheritance,seed,angiosperm
+Quercus fusiformis,wind_pollination,1,common knowledge
+Quercus fusiformis,wind_dispersal,0,common knowledge
+Quercus fusiformis,pollination_months,3_4_5,http://oaks.of.the.world.free.fr/quercus_fusiformis.htm
+Quercus fusiformis,dispersal_months,NA,NA
+Quercus fusiformis,plastid_inheritance,seed,angiosperm
+Quercus geminata,wind_pollination,1,common knowledge
+Quercus geminata,wind_dispersal,0,common knowledge
+Quercus geminata,pollination_months,3_4_5,http://oaks.of.the.world.free.fr/quercus_virginiana.htm
+Quercus geminata,dispersal_months,NA,NA
+Quercus geminata,plastid_inheritance,seed,angiosperm
+Quercus insignis,wind_pollination,1,common knowledge
+Quercus insignis,wind_dispersal,0,common knowledge
+Quercus insignis,pollination_months,3_4_5_6_7,http://oaks.of.the.world.free.fr/quercus_insignis.htm
+Quercus insignis,dispersal_months,NA,NA
+Quercus insignis,plastid_inheritance,seed,angiosperm
+Quercus john-tuckeri,wind_pollination,1,common knowledge
+Quercus john-tuckeri,wind_dispersal,0,common knowledge
+Quercus john-tuckeri,pollination_months,2_3_4,https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=76905
+Quercus john-tuckeri,dispersal_months,NA,NA
+Quercus john-tuckeri,plastid_inheritance,seed,angiosperm
+Quercus kerrii,wind_pollination,1,common knowledge
+Quercus kerrii,wind_dispersal,0,common knowledge
+Quercus kerrii,pollination_months,3_4_5,http://oaks.of.the.world.free.fr/quercus_kerrii.htm
+Quercus kerrii,dispersal_months,NA,NA
+Quercus kerrii,plastid_inheritance,seed,angiosperm
+Quercus liaotungensis,wind_pollination,1,common knowledge
+Quercus liaotungensis,wind_dispersal,0,common knowledge
+Quercus liaotungensis,pollination_months,5_6,http://oaks.of.the.world.free.fr/quercus_mongolica.htm
+Quercus liaotungensis,dispersal_months,NA,NA
+Quercus liaotungensis,plastid_inheritance,seed,angiosperm
+Quercus liaotungensis,wind_pollination,1,common knowledge
+Quercus liaotungensis,wind_dispersal,0,common knowledge
+Quercus liaotungensis,pollination_months,5_6,http://oaks.of.the.world.free.fr/quercus_mongolica.htm
+Quercus liaotungensis,dispersal_months,NA,NA
+Quercus liaotungensis,plastid_inheritance,seed,angiosperm
+Quercus lobata,wind_pollination,1,common knowledge
+Quercus lobata,wind_dispersal,0,common knowledge
+Quercus lobata,pollination_months,3_4,https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40663
+Quercus lobata,dispersal_months,NA,NA
+Quercus lobata,plastid_inheritance,seed,angiosperm
+Quercus minima,wind_pollination,1,common knowledge
+Quercus minima,wind_dispersal,0,common knowledge
+Quercus minima,pollination_months,NA,NA
+Quercus minima,dispersal_months,NA,NA
+Quercus minima,plastid_inheritance,seed,angiosperm
+Quercus mongolica,wind_pollination,1,common knowledge
+Quercus mongolica,wind_dispersal,0,common knowledge
+Quercus mongolica,pollination_months,3_4,https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40723
+Quercus mongolica,dispersal_months,NA,NA
+Quercus mongolica,plastid_inheritance,seed,angiosperm
+Quercus oleoides,wind_pollination,1,common knowledge
+Quercus oleoides,wind_dispersal,0,common knowledge
+Quercus oleoides,pollination_months,3_4_5,http://oaks.of.the.world.free.fr/quercus_oleoides.htm
+Quercus oleoides,dispersal_months,NA,NA
+Quercus oleoides,plastid_inheritance,seed,angiosperm
+Quercus pacifica,wind_pollination,1,common knowledge
+Quercus pacifica,wind_dispersal,0,common knowledge
+Quercus pacifica,pollination_months,3_4,https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=80203
+Quercus pacifica,dispersal_months,NA,NA
+Quercus pacifica,plastid_inheritance,seed,angiosperm
+Quercus petraea,wind_pollination,1,common knowledge
+Quercus petraea,wind_dispersal,0,common knowledge
+Quercus petraea,pollination_months,3_4,https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40723
+Quercus petraea,dispersal_months,NA,NA
+Quercus petraea,plastid_inheritance,seed,angiosperm
+Quercus pubescens,wind_pollination,1,common knowledge
+Quercus pubescens,wind_dispersal,0,common knowledge
+Quercus pubescens,pollination_months,4_5,http://oaks.of.the.world.free.fr/quercus_pubescens.htm
+Quercus pubescens,dispersal_months,NA,NA
+Quercus pubescens,plastid_inheritance,seed,angiosperm
+Quercus robur,wind_pollination,1,common knowledge
+Quercus robur,wind_dispersal,0,common knowledge
+Quercus robur,pollination_months,3_4,https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40723
+Quercus robur,dispersal_months,NA,NA
+Quercus robur,plastid_inheritance,seed,angiosperm
+Quercus sagraena,wind_pollination,1,common knowledge
+Quercus sagraena,wind_dispersal,0,common knowledge
+Quercus sagraena,pollination_months,NA,NA
+Quercus sagraena,dispersal_months,NA,NA
+Quercus sagraena,plastid_inheritance,seed,angiosperm
+Quercus sapotifolia,wind_pollination,1,common knowledge
+Quercus sapotifolia,wind_dispersal,0,common knowledge
+Quercus sapotifolia,pollination_months,NA,NA
+Quercus sapotifolia,dispersal_months,NA,NA
+Quercus sapotifolia,plastid_inheritance,seed,angiosperm
+Quercus virginiana,wind_pollination,1,common knowledge
+Quercus virginiana,wind_dispersal,0,common knowledge
+Quercus virginiana,pollination_months,3_4_5,http://oaks.of.the.world.free.fr/quercus_virginiana.htm
+Quercus virginiana,dispersal_months,NA,NA
+Quercus virginiana,plastid_inheritance,seed,angiosperm
+Rhizophora mangle,wind_pollination,1,https://www.jstor.org/stable/2387918
+Rhizophora mangle,wind_dispersal,0,https://en.wikipedia.org/wiki/Rhizophora_mangle
+Rhizophora mangle,pollination_months,1_2_3_4_5_6_7_8_9_10_11_12,https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0001-37652014000100229
+Rhizophora mangle,dispersal_months,NA,NA
+Rhizophora mangle,plastid_inheritance,seed,angiosperm
+Rhizophora mucronata,wind_pollination,1,https://www.jstor.org/stable/2387918
+Rhizophora mucronata,wind_dispersal,0,NA
+Rhizophora mucronata,pollination_months,1_2_3_4_5_6_7_8_9_10_11_12,https://www.doc-developpement-durable.org/file/Arbres-Bois-de-Rapport-Reforestation/FICHES_ARBRES/Arbres-non-classes/Rhizophora-IWP.pdf
+Rhizophora mucronata,dispersal_months,NA,NA
+Rhizophora mucronata,plastid_inheritance,seed,angiosperm
+Rhizophora stylosa,wind_pollination,1,https://www.jstor.org/stable/2387918
+Rhizophora stylosa,wind_dispersal,0,NA
+Rhizophora stylosa,pollination_months,1_2_3_4_5_6_7_8_9_10_11_12,https://www.doc-developpement-durable.org/file/Arbres-Bois-de-Rapport-Reforestation/FICHES_ARBRES/Arbres-non-classes/Rhizophora-IWP.pdf
+Rhizophora stylosa,dispersal_months,NA,NA
+Rhizophora stylosa,plastid_inheritance,seed,angiosperm
+Salix helvetica,wind_pollination,0.5,guess
+Salix helvetica,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Salix helvetica,pollination_months,NA,NA
+Salix helvetica,dispersal_months,NA,NA
+Salix helvetica,plastid_inheritance,seed,angiosperm
+Salix purpurea,wind_pollination,0.5,https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.3732/ajb.0800321
+Salix purpurea,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Salix purpurea,pollination_months,3_4,https://pfaf.org/user/Plant.aspx?LatinName=Salix+purpurea
+Salix purpurea,dispersal_months,5,https://pfaf.org/user/Plant.aspx?LatinName=Salix+purpurea
+Salix purpurea,plastid_inheritance,seed,angiosperm
+Shorea macrophylla,wind_pollination,0,https://en.wikipedia.org/wiki/Shorea
+Shorea macrophylla,wind_dispersal,0,https://pfaf.org/user/Plant.aspx?LatinName=Shorea+macrophylla
+Shorea macrophylla,pollination_months,NA,NA
+Shorea macrophylla,dispersal_months,1_2,https://en.wikipedia.org/wiki/Shorea_macrophylla
+Shorea macrophylla,plastid_inheritance,seed,angiosperm
+Shorea platyclados,wind_pollination,0,https://en.wikipedia.org/wiki/Shorea
+Shorea platyclados,wind_dispersal,0,https://pfaf.org/user/Plant.aspx?LatinName=Shorea+macrophylla
+Shorea platyclados,pollination_months,NA,NA
+Shorea platyclados,dispersal_months,NA,NA
+Shorea platyclados,plastid_inheritance,seed,angiosperm
+Taxus baccata,wind_pollination,1,gymnosperm
+Taxus baccata,wind_dispersal,0,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Taxus baccata,pollination_months,3_4_5,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Taxus baccata,dispersal_months,8_9_10,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Taxus baccata,plastid_inheritance,pollen,gymnosperm
+Taxus contorta,wind_pollination,1,gymnosperm
+Taxus contorta,wind_dispersal,0,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Taxus contorta,pollination_months,2_3_4,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3466193/
+Taxus contorta,dispersal_months,NA,NA
+Taxus contorta,plastid_inheritance,pollen,gymnosperm
+Tectona grandis,wind_pollination,0,https://www.sciencedirect.com/science/article/abs/pii/S0378112705006055
+Tectona grandis,wind_dispersal,0,https://doi.org/10.1016/S0378-1127(02)00235-9
+Tectona grandis,pollination_months,NA,NA
+Tectona grandis,dispersal_months,NA,NA
+Tectona grandis,plastid_inheritance,seed,angiosperm
+Ulmus laevis,wind_pollination,1,https://en.wikipedia.org/wiki/Ulmus_laevis
+Ulmus laevis,wind_dispersal,1,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Ulmus laevis,pollination_months,4_5,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Ulmus laevis,dispersal_months,5_6,https://www.fs.fed.us/rm/pubs_series/wo/wo_ah727.pdf
+Ulmus laevis,plastid_inheritance,seed,angiosperm
+Yucca brevifolia,wind_pollination,0,https://www.fs.fed.us/database/feis/plants/tree/yucbre/all.html
+Yucca brevifolia,wind_dispersal,0,https://www.fs.fed.us/database/feis/plants/tree/yucbre/all.html
+Yucca brevifolia,pollination_months,NA,NA
+Yucca brevifolia,dispersal_months,NA,NA
+Yucca brevifolia,plastid_inheritance,seed,angiosperm
